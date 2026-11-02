@@ -1,19 +1,34 @@
 
 <div align="center">
 
-<samp>PERSONAL ENGINEERING PROFILE &nbsp; / &nbsp; JA—001</samp>
+<p>
+  <samp>JATIN / SOFTWARE ENGINEERING / PROFILE_001</samp>
+</p>
 
 # JATIN
 
-### FULL-STACK DEVELOPER &nbsp; · &nbsp; SOFTWARE ENGINEER &nbsp; · &nbsp; APPLIED AI
+<p>
+  <samp>FULL-STACK ENGINEER &nbsp; / &nbsp; SOFTWARE DEVELOPER &nbsp; / &nbsp; APPLIED AI</samp>
+</p>
 
-Building software across the stack — from interface architecture and backend systems to production deployment.
+<p>
+  Designing systems. Engineering products. Shipping software.
+</p>
 
 <br/>
 
-<a href="https://github.com/Jatinn07">GITHUB PROFILE ↗</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/Jatinn07?tab=repositories">REPOSITORIES ↗</a>
+<a href="https://github.com/Jatinn07?tab=repositories">EXPLORE REPOSITORIES</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Jatinn07">GITHUB PROFILE</a>
+
+<br/><br/>
+
+<kbd>REACT</kbd>
+<kbd>NEXT.JS</kbd>
+<kbd>TYPESCRIPT</kbd>
+<kbd>NODE.JS</kbd>
+<kbd>POSTGRESQL</kbd>
+<kbd>AWS</kbd>
 
 </div>
 
@@ -21,40 +36,41 @@ Building software across the stack — from interface architecture and backend s
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-<h3>01 / ABOUT</h3>
+### 01 / THE ENGINEER
 
-I'm a **Full-Stack Developer at AV Technosys**, working across frontend applications, backend APIs, databases, authentication and deployment.
+I'm a **Full-Stack Developer at AV Technosys**, building and maintaining production applications across the entire software stack.
 
-I enjoy owning features end to end — understanding requirements, designing application structures, implementing interfaces and services, integrating external systems, and debugging real production behaviour.
+My work spans frontend architecture, backend services, database design, authentication, cloud infrastructure and deployment.
 
-My interests revolve around **software architecture, backend engineering, applied AI and building reliable products.**
+I enjoy understanding how systems work beneath the interface — how data moves, how services communicate, where things break, and how to engineer better solutions.
+
+**I care about the entire lifecycle of software, not just the code that gets it started.**
 
 </td>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
-<h3>02 / CURRENTLY</h3>
+### 02 / QUICK PROFILE
 
-**ROLE**
+```yaml
+name: Jatin
+role: Full-Stack Developer
+company: AV Technosys
 
-Full-Stack Developer
+primary:
+  - React
+  - Next.js
+  - TypeScript
+  - Node.js
 
-**ORGANIZATION**
+interests:
+  - System Design
+  - Backend Engineering
+  - Applied AI
 
-AV Technosys
-
-**FOCUS**
-
-Application Engineering
-
-**EXPLORING**
-
-Applied AI & System Design
-
-**APPROACH**
-
-Understand → Design → Build → Ship
+mindset: Build. Debug. Improve.
+```
 
 </td>
 </tr>
@@ -62,107 +78,70 @@ Understand → Design → Build → Ship
 
 ---
 
-<h3>03 / TECHNICAL ECOSYSTEM</h3>
+### 03 / TECHNICAL ARSENAL
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **01 — LANGUAGES**
 
-<kbd>TypeScript</kbd>
+<kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>Python</kbd>
 
-<kbd>JavaScript</kbd>
+<br/>
 
-<kbd>Python</kbd>
+**02 — FRONTEND ENGINEERING**
 
-</td>
-<td width="34%" valign="top">
+<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Tailwind CSS</kbd>
 
-**02 — FRONTEND**
+<br/>
 
-<kbd>React</kbd>
+**03 — BACKEND ENGINEERING**
 
-<kbd>Next.js</kbd>
-
-<kbd>Tailwind CSS</kbd>
+<kbd>Node.js</kbd> <kbd>Django</kbd> <kbd>REST APIs</kbd> <kbd>JWT</kbd>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**03 — BACKEND**
+**04 — DATA & PERSISTENCE**
 
-<kbd>Node.js</kbd>
+<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>Drizzle ORM</kbd>
 
-<kbd>Django</kbd>
+<br/>
 
-<kbd>REST APIs</kbd>
+**05 — CLOUD & INFRASTRUCTURE**
 
-<kbd>JWT</kbd>
+<kbd>AWS S3</kbd> <kbd>EC2</kbd> <kbd>CloudFront</kbd> <kbd>Vercel</kbd>
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<br/>
 
-**04 — DATABASES**
+**06 — TOOLS & MOBILE**
 
-<kbd>PostgreSQL</kbd>
-
-<kbd>MySQL</kbd>
-
-<kbd>Drizzle ORM</kbd>
-
-</td>
-<td valign="top">
-
-**05 — CLOUD & INFRA**
-
-<kbd>AWS S3</kbd>
-
-<kbd>EC2</kbd>
-
-<kbd>CloudFront</kbd>
-
-<kbd>Vercel</kbd>
-
-</td>
-<td valign="top">
-
-**06 — DEVELOPMENT**
-
-<kbd>Git</kbd>
-
-<kbd>GitHub</kbd>
-
-<kbd>Linux</kbd>
-
-<kbd>VS Code</kbd>
-
-<kbd>Postman</kbd>
-
-<kbd>Figma</kbd>
+<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Linux</kbd> <kbd>VS Code</kbd> <kbd>Postman</kbd> <kbd>Figma</kbd> <kbd>React Native</kbd> <kbd>Expo</kbd>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>Additional technologies</strong></summary>
+<summary><strong>EXPLORE MY ENGINEERING TOOLKIT</strong></summary>
 
 <br/>
 
-- Mobile: React Native, Expo
-- API integration and authentication
-- Database modelling and ORM workflows
-- Cloud storage and application deployment
-- AI model API integration
+| DOMAIN | EXPERIENCE |
+|:--|:--|
+| Application architecture | Component-driven frontend and structured backend applications |
+| API development | REST API design, integration and authentication |
+| Database engineering | Relational modelling, queries and ORM workflows |
+| Cloud infrastructure | AWS storage, compute and content delivery |
+| Deployment | Production builds, hosting and debugging |
+| AI integration | Working with external AI model APIs |
 
 </details>
 
 ---
 
-<h3>04 / ENGINEERING WORKFLOW</h3>
+### 04 / HOW I ENGINEER
 
 <table>
 <tr>
@@ -170,90 +149,101 @@ Understand → Design → Build → Ship
 
 **01**
 
-**DISCOVER**
+`ANALYZE`
 
-<sub>Requirements and constraints</sub>
+<sub>Requirements, constraints and problems</sub>
 
 </td>
 <td align="center" width="20%">
 
 **02**
 
-**ARCHITECT**
+`ARCHITECT`
 
-<sub>Structure and data flow</sub>
+<sub>Application structure and data flow</sub>
 
 </td>
 <td align="center" width="20%">
 
 **03**
 
-**IMPLEMENT**
+`IMPLEMENT`
 
-<sub>Frontend and backend</sub>
+<sub>Frontend, backend and integrations</sub>
 
 </td>
 <td align="center" width="20%">
 
 **04**
 
-**DEBUG**
+`DEBUG`
 
-<sub>Trace and validate</sub>
+<sub>Trace, isolate and resolve</sub>
 
 </td>
 <td align="center" width="20%">
 
 **05**
 
-**DEPLOY**
+`DEPLOY`
 
-<sub>Ship and improve</sub>
+<sub>Ship, verify and iterate</sub>
 
 </td>
 </tr>
 </table>
 
-**How I approach debugging**
+<details>
+<summary><strong>MY DEBUGGING APPROACH</strong></summary>
 
-```text
-01  Inspect network requests and responses
-02  Trace the application execution
-03  Isolate the underlying issue
-04  Implement and validate the fix
-05  Verify the complete workflow
+<br/>
+
+```typescript
+const debuggingProcess = [
+  "Inspect network requests and responses",
+  "Trace application execution",
+  "Identify the underlying failure",
+  "Implement the correction",
+  "Verify the complete workflow"
+];
 ```
+
+</details>
 
 ---
 
-<h3>05 / CURRENT DIRECTION</h3>
+### 05 / CURRENT TRANSMISSION
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**APPLICATION ENGINEERING**
+**SYSTEM DESIGN**
 
-Building maintainable full-stack applications with clear frontend, backend and data boundaries.
-
-<br/>
-
-**APPLIED AI**
-
-Integrating model APIs into useful application workflows.
+Exploring application architecture, service boundaries, scalability and engineering trade-offs.
 
 </td>
 <td width="50%" valign="top">
 
-**SYSTEM DESIGN**
+**APPLIED AI**
 
-Understanding architecture, scalability, component boundaries and engineering trade-offs.
+Building practical applications around AI model APIs and intelligent workflows.
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**PRODUCTION QUALITY**
+**BACKEND ENGINEERING**
 
-Improving reliability, debugging practices, deployment and maintainability.
+Improving API architecture, authentication, database operations and reliability.
+
+</td>
+<td width="50%" valign="top">
+
+**PRODUCTION ENGINEERING**
+
+Learning to build, debug and maintain software beyond the development environment.
 
 </td>
 </tr>
@@ -261,22 +251,58 @@ Improving reliability, debugging practices, deployment and maintainability.
 
 ---
 
-<h3>06 / CONNECT</h3>
+### 06 / GITHUB ACTIVITY
 
 <div align="center">
 
-Interested in software engineering, interesting technical problems and building useful products.
+<p>
+  <samp>THE WORK SPEAKS THROUGH THE CODE.</samp>
+</p>
 
-<br/>
+<a href="https://github.com/Jatinn07?tab=repositories">
+  <strong>01 / PUBLIC REPOSITORIES ↗</strong>
+</a>
 
-<a href="https://github.com/Jatinn07">GITHUB</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://github.com/Jatinn07?tab=repositories">EXPLORE REPOSITORIES</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Jatinn07?tab=overview">
+  <strong>02 / CONTRIBUTION HISTORY ↗</strong>
+</a>
 
 <br/><br/>
 
-<samp>ENGINEERED WITH CURIOSITY. BUILT WITH INTENT.</samp>
+<sub>Explore my pinned repositories and GitHub contribution graph below.</sub>
 
-**JATIN / 2026**
+</div>
+
+---
+
+### 07 / ESTABLISH CONNECTION
+
+<div align="center">
+
+**Interested in building something meaningful?**
+
+Open to interesting engineering discussions, collaboration and opportunities.
+
+<br/>
+
+<a href="https://github.com/Jatinn07">
+  <kbd>GITHUB ↗</kbd>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Jatinn07?tab=repositories">
+  <kbd>REPOSITORIES ↗</kbd>
+</a>
+
+<br/><br/>
+
+<samp>BUILD WITH INTENT / SHIP WITH PURPOSE</samp>
+
+<br/>
+
+<sub>JATIN © 2026 &nbsp; · &nbsp; END OF PROFILE_001</sub>
 
 </div>
