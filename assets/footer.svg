@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92">
-<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A855F7" stroke-opacity=".12"/></pattern><linearGradient id="l"><stop stop-color="#6D28D9"/><stop offset=".5" stop-color="#D8B4FE"/><stop offset="1" stop-color="#6D28D9"/></linearGradient></defs>
-<rect width="1200" height="92" rx="8" fill="#09070D" stroke="#45265F"/><rect width="1200" height="92" rx="8" fill="url(#g)"/><path d="M0 1H1200" stroke="url(#l)" stroke-width="2"/>
-<path d="M0 72H265L295 91M1200 72H935L905 91" stroke="#7E4AA8" stroke-opacity=".55" fill="none"/>
-<text x="34" y="42" fill="#C084FC" font-family="monospace" font-size="12" letter-spacing="3">END OF PROFILE  //  2026</text><text x="1165" y="54" fill="#C084FC" font-family="monospace" font-size="22" text-anchor="end">JA_001</text></svg>

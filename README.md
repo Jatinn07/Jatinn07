@@ -1,160 +1,77 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Jatin — Full-Stack Developer, Software Engineer and Applied AI" />
+<img src="./assets/hero.png" width="100%" alt="Jatin — Full-stack developer and software engineer" />
 
 <br/>
 
-<a href="https://github.com/Jatinn07">
-  <img src="https://img.shields.io/badge/GITHUB_PROFILE-Jatinn07-17131F?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="GitHub profile"/>
-</a>
-&nbsp;
-<a href="https://github.com/Jatinn07?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-17131F?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Public repositories"/>
-</a>
-&nbsp;
-<a href="#connect">
-  <img src="https://img.shields.io/badge/CONNECT-GET_IN_TOUCH-17131F?style=for-the-badge&logo=maildotru&logoColor=C084FC" alt="Connect"/>
-</a>
+<a href="https://github.com/Jatinn07">GitHub profile</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Jatinn07?tab=repositories">Repositories</a>
 
 </div>
 
-<br/>
+## 01 — Profile
 
-<table>
-<tr>
-<td width="34%" valign="top">
+I'm a **Full-Stack Developer at AV Technosys**, working across frontend applications, backend APIs, databases, authentication and deployment.
 
-### <img src="./assets/marker.svg" width="12" height="12" alt=""/> 01 / ABOUT ME
+I enjoy building complete product workflows: understanding requirements, shaping the application structure, implementing interfaces and services, integrating external systems, and debugging issues through production.
 
-I'm a full-stack developer working across frontend, backend APIs, databases, authentication and deployment.
-
-At **AV Technosys**, I work on real-world applications and production delivery — from building interfaces and integrating services to debugging issues and improving application workflows.
-
-I enjoy understanding how the pieces of a product fit together and taking features from implementation through production.
-
-<img src="./assets/hatch.svg" width="82%" alt="Purple diagonal accent"/>
-
-</td>
-<td width="44%" valign="top">
-
-### <img src="./assets/marker.svg" width="12" height="12" alt=""/> 02 / TECH STACK
-
-**LANGUAGES & FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind&theme=dark" alt="TypeScript, JavaScript, Python, React, Next.js and Tailwind CSS"/>
-
-**BACKEND & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,postgres,mysql&theme=dark" alt="Node.js, Django, PostgreSQL and MySQL"/>
-
-**CLOUD & DEVELOPMENT TOOLS**
-
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,vscode,figma,postman,linux&theme=dark" alt="AWS, Vercel, Git, GitHub, VS Code, Figma, Postman and Linux"/>
-
-<sub>Also worked with: Drizzle ORM · REST APIs · JWT authentication · AWS S3 · EC2 · CloudFront · React Native · Expo</sub>
-
-</td>
-<td width="22%" valign="top">
-
-### <img src="./assets/marker.svg" width="12" height="12" alt=""/> 03 / CURRENT FOCUS
-
-`01` System design
-
-`02` AI-powered applications
-
-`03` Backend architecture
-
-`04` Production debugging
-
-`05` Cloud deployment
-
-<br/>
-
-<img src="./assets/quote.svg" width="100%" alt="Ship better. Iterate faster."/>
-
-</td>
-</tr>
-</table>
+My current interests are **applied AI, backend architecture, system design and reliable software delivery**.
 
 ---
 
-### <img src="./assets/marker.svg" width="12" height="12" alt=""/> 04 / GITHUB ACTIVITY
+## 02 — Technical toolkit
 
-<table>
-<tr>
-<td width="33%" valign="middle">
+| DOMAIN | TECHNOLOGIES |
+|:--|:--|
+| **Frontend** | TypeScript · JavaScript · React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Django · REST APIs · JWT |
+| **Data** | PostgreSQL · MySQL · Drizzle ORM |
+| **Cloud** | AWS S3 · EC2 · CloudFront · Vercel |
+| **Mobile** | React Native · Expo |
+| **Workflow** | Git · GitHub · Linux · VS Code · Postman · Figma |
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jatinn07&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+---
 
-</td>
-<td width="33%" valign="middle">
+## 03 — Current direction
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinn07&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C084FC&text_color=E9D5FF&langs_count=6" alt="Most used languages"/>
+**Application engineering**  
+Building maintainable full-stack products, with attention to how frontend, APIs and data layers fit together.
 
-</td>
-<td width="34%" valign="middle">
+**Applied AI**  
+Integrating model APIs into practical product workflows.
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Jatinn07&hide_border=true&background=0D0A12&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=9B8AAE&currStreakNum=E9D5FF&sideNums=E9D5FF" alt="GitHub contribution streak"/>
+**System design**  
+Learning to reason about architecture, boundaries, trade-offs and scalability.
 
-</td>
-</tr>
-</table>
+**Production engineering**  
+Debugging real application behavior, improving reliability and managing deployments.
+
+---
+
+## 04 — GitHub activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinn07&bg_color=0D0A12&color=E9D5FF&line=A855F7&point=E9D5FF&area=true&area_color=6D28D9&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="GitHub contribution timeline"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Jatinn07&show_icons=true&hide_border=true&bg_color=050505&title_color=E5E5E5&icon_color=9A9A9A&text_color=C8C8C8&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinn07&layout=compact&hide_border=true&bg_color=050505&title_color=E5E5E5&text_color=C8C8C8&langs_count=6" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinn07&bg_color=050505&color=BDBDBD&line=8A8A8A&point=F0F0F0&area=true&area_color=303030&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="70%" valign="top">
+## 05 — Connect
 
-### <img src="./assets/marker.svg" width="12" height="12" alt=""/> 05 / CONTRIBUTION LOOP
+For technical conversations and collaboration, GitHub is the best public starting point.
 
-<sub>AUTOMATICALLY REGENERATED BY GITHUB ACTIONS</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-</picture>
-
-</td>
-<td width="30%" valign="top">
-
-<a id="connect"></a>
-
-### <img src="./assets/marker.svg" width="12" height="12" alt=""/> 06 / CONNECT
-
-For collaboration, technical conversations or questions, the best public starting point is my GitHub profile.
-
-<br/>
-
-<a href="https://github.com/Jatinn07">
-  <img src="https://img.shields.io/badge/GITHUB_PROFILE-18131F?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="GitHub profile"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Jatinn07?tab=repositories">
-  <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-18131F?style=for-the-badge&logo=github&logoColor=E9D5FF" alt="Public repositories"/>
-</a>
-
-<br/><br/>
-
-<sub>Let's build something meaningful.</sub>
-
-</td>
-</tr>
-</table>
+**[GitHub profile](https://github.com/Jatinn07)**  
+**[Browse public repositories](https://github.com/Jatinn07?tab=repositories)**
 
 <div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Jatin — End of profile"/>
-
-<sub>DESIGNED WITH INTENT · ENGINEERED WITH CURIOSITY · JATIN / 2026</sub>
-
+  <sub>ENGINEERED WITH CURIOSITY · JATIN</sub>
 </div>
