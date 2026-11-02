@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="46" viewBox="0 0 180 46">
+<rect x="1" y="1" width="178" height="44" rx="22" fill="#080809" stroke="#555558" stroke-width="1.2"/>
+<path d="M16 29V23L22 18L27 25L34 15" fill="none" stroke="#EAE9E7" stroke-width="1.8"/><circle cx="16" cy="29" r="2" fill="#EAE9E7"/><circle cx="34" cy="15" r="2" fill="#EAE9E7"/>
+<text x="102.0" y="29" text-anchor="middle" fill="#EAE9E7" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="1">ACTIVITY</text>
+</svg>

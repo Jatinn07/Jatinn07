@@ -1,0 +1,43 @@
+name: Refresh profile activity
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/**"
+      - ".github/workflows/refresh-activity.yml"
+  workflow_dispatch:
+  schedule:
+    - cron: "23 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate local activity graphic
+        run: python scripts/update_activity.py
+
+      - name: Commit refreshed activity graphic
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity.svg
+          if git diff --cached --quiet; then
+            echo "Activity graphic is already current."
+          else
+            git commit -m "chore: refresh profile activity graphic"
+            git push
+          fi
