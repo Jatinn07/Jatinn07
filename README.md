@@ -54,17 +54,7 @@ const jatin = {
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux" />
 </p>
 
-## `03` / SELECTED WORK
-
-| Project | Description |
-|---|---|
-| [Morzze](https://morzze.com) | Production web application |
-| [Roopshree Bandhej](https://roopshreebandhej.com) | Full-stack commerce application |
-| [Ronepower](https://ronepower.com) | Production web application |
-| [Snippets](https://github.com/Jatinn07/Snippets) | Personal code snippets collection |
-| [Luxcore](https://luxcorellc.com) | Web development project |
-
-## `04` / GITHUB ACTIVITY
+## `03` / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -78,12 +68,12 @@ const jatin = {
 
 </div>
 
-## `05` / CONNECT
+## `04` / CONNECT
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jatinn07-181717?style=for-the-badge&logo=github)](https://github.com/Jatinn07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel)](https://luxcorellc.com)
+
 
 <br/><br/>
 
