@@ -1,308 +1,195 @@
 
-<div align="center">
-
-<p>
-  <samp>JATIN / SOFTWARE ENGINEERING / PROFILE_001</samp>
-</p>
-
-# JATIN
-
-<p>
-  <samp>FULL-STACK ENGINEER &nbsp; / &nbsp; SOFTWARE DEVELOPER &nbsp; / &nbsp; APPLIED AI</samp>
-</p>
-
-<p>
-  Designing systems. Engineering products. Shipping software.
-</p>
-
-<br/>
-
-<a href="https://github.com/Jatinn07?tab=repositories">EXPLORE REPOSITORIES</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Jatinn07">GITHUB PROFILE</a>
-
-<br/><br/>
-
-<kbd>REACT</kbd>
-<kbd>NEXT.JS</kbd>
-<kbd>TYPESCRIPT</kbd>
-<kbd>NODE.JS</kbd>
-<kbd>POSTGRESQL</kbd>
-<kbd>AWS</kbd>
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 01 / THE ENGINEER
-
-I'm a **Full-Stack Developer at AV Technosys**, building and maintaining production applications across the entire software stack.
-
-My work spans frontend architecture, backend services, database design, authentication, cloud infrastructure and deployment.
-
-I enjoy understanding how systems work beneath the interface — how data moves, how services communicate, where things break, and how to engineer better solutions.
-
-**I care about the entire lifecycle of software, not just the code that gets it started.**
-
-</td>
-<td width="40%" valign="top">
-
-### 02 / QUICK PROFILE
-
-```yaml
-name: Jatin
-role: Full-Stack Developer
-company: AV Technosys
-
-primary:
-  - React
-  - Next.js
-  - TypeScript
-  - Node.js
-
-interests:
-  - System Design
-  - Backend Engineering
-  - Applied AI
-
-mindset: Build. Debug. Improve.
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 03 / TECHNICAL ARSENAL
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — LANGUAGES**
-
-<kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>Python</kbd>
-
-<br/>
-
-**02 — FRONTEND ENGINEERING**
-
-<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Tailwind CSS</kbd>
-
-<br/>
-
-**03 — BACKEND ENGINEERING**
-
-<kbd>Node.js</kbd> <kbd>Django</kbd> <kbd>REST APIs</kbd> <kbd>JWT</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-**04 — DATA & PERSISTENCE**
-
-<kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>Drizzle ORM</kbd>
-
-<br/>
-
-**05 — CLOUD & INFRASTRUCTURE**
-
-<kbd>AWS S3</kbd> <kbd>EC2</kbd> <kbd>CloudFront</kbd> <kbd>Vercel</kbd>
-
-<br/>
-
-**06 — TOOLS & MOBILE**
-
-<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Linux</kbd> <kbd>VS Code</kbd> <kbd>Postman</kbd> <kbd>Figma</kbd> <kbd>React Native</kbd> <kbd>Expo</kbd>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>EXPLORE MY ENGINEERING TOOLKIT</strong></summary>
-
-<br/>
-
-| DOMAIN | EXPERIENCE |
-|:--|:--|
-| Application architecture | Component-driven frontend and structured backend applications |
-| API development | REST API design, integration and authentication |
-| Database engineering | Relational modelling, queries and ORM workflows |
-| Cloud infrastructure | AWS storage, compute and content delivery |
-| Deployment | Production builds, hosting and debugging |
-| AI integration | Working with external AI model APIs |
-
-</details>
-
----
-
-### 04 / HOW I ENGINEER
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**01**
-
-`ANALYZE`
-
-<sub>Requirements, constraints and problems</sub>
-
-</td>
-<td align="center" width="20%">
-
-**02**
-
-`ARCHITECT`
-
-<sub>Application structure and data flow</sub>
-
-</td>
-<td align="center" width="20%">
-
-**03**
-
-`IMPLEMENT`
-
-<sub>Frontend, backend and integrations</sub>
-
-</td>
-<td align="center" width="20%">
-
-**04**
-
-`DEBUG`
-
-<sub>Trace, isolate and resolve</sub>
-
-</td>
-<td align="center" width="20%">
-
-**05**
-
-`DEPLOY`
-
-<sub>Ship, verify and iterate</sub>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><strong>MY DEBUGGING APPROACH</strong></summary>
-
-<br/>
-
-```typescript
-const debuggingProcess = [
-  "Inspect network requests and responses",
-  "Trace application execution",
-  "Identify the underlying failure",
-  "Implement the correction",
-  "Verify the complete workflow"
-];
-```
-
-</details>
-
----
-
-### 05 / CURRENT TRANSMISSION
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**SYSTEM DESIGN**
-
-Exploring application architecture, service boundaries, scalability and engineering trade-offs.
-
-</td>
-<td width="50%" valign="top">
-
-**APPLIED AI**
-
-Building practical applications around AI model APIs and intelligent workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**BACKEND ENGINEERING**
-
-Improving API architecture, authentication, database operations and reliability.
-
-</td>
-<td width="50%" valign="top">
-
-**PRODUCTION ENGINEERING**
-
-Learning to build, debug and maintain software beyond the development environment.
-
-</td>
-</tr>
-</table>
-
----
-
-### 06 / GITHUB ACTIVITY
+<!--
+  JATIN — GitHub Profile
+  Replace nothing unless you want to customize the external widgets.
+-->
 
 <div align="center">
 
-<p>
-  <samp>THE WORK SPEAKS THROUGH THE CODE.</samp>
-</p>
-
-<a href="https://github.com/Jatinn07?tab=repositories">
-  <strong>01 / PUBLIC REPOSITORIES ↗</strong>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Jatinn07?tab=overview">
-  <strong>02 / CONTRIBUTION HISTORY ↗</strong>
-</a>
-
-<br/><br/>
-
-<sub>Explore my pinned repositories and GitHub contribution graph below.</sub>
-
-</div>
-
----
-
-### 07 / ESTABLISH CONNECTION
-
-<div align="center">
-
-**Interested in building something meaningful?**
-
-Open to interesting engineering discussions, collaboration and opportunities.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090909,50:171717,100:242424&text=JATIN&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=curious%20mind.%20builder%20by%20nature.&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
 <br/>
 
 <a href="https://github.com/Jatinn07">
-  <kbd>GITHUB ↗</kbd>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Jatinn07?tab=repositories">
-  <kbd>REPOSITORIES ↗</kbd>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Exploring+the+edges+of+technology;Turning+random+ideas+into+working+things;Software+%C2%B7+AI+%C2%B7+Systems+%C2%B7+Everything+in+between;Always+learning.+Always+building." alt="Typing introduction" />
 </a>
 
 <br/><br/>
 
-<samp>BUILD WITH INTENT / SHIP WITH PURPOSE</samp>
+[![GitHub](https://img.shields.io/badge/GitHub-Jatinn07-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinn07)
+[![Followers](https://img.shields.io/github/followers/Jatinn07?style=for-the-badge&color=171717&label=FOLLOWERS&logo=github)](https://github.com/Jatinn07?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Jatinn07?style=for-the-badge&color=171717&label=STARS&logo=github)](https://github.com/Jatinn07?tab=repositories)
+
+</div>
 
 <br/>
 
-<sub>JATIN © 2026 &nbsp; · &nbsp; END OF PROFILE_001</sub>
+<!-- ABOUT -->
+
+## `whoami`
+
+I like understanding how things work — and then seeing if I can build them myself.
+
+Some days it's an application. Some days it's an AI experiment, a tool, an automation, a backend system, or an idea that probably started with *"what if..."*.
+
+I'm interested in technology as a whole, not just one lane. I enjoy moving between layers, learning unfamiliar tools, connecting different pieces, and figuring things out along the way.
+
+**Curiosity first. Tools second. Possibilities always open.**
+
+<br/>
+
+<!-- AREAS -->
+
+## `things_i_get_lost_in`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Building software
+
+- Web applications & interfaces
+- Backend engineering & APIs
+- Mobile applications
+- Databases & data architecture
+- System design & infrastructure
+- Developer tools & workflows
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Exploring technology
+
+- Artificial intelligence & LLMs
+- AI-powered applications
+- Automation & integrations
+- Cloud & distributed systems
+- Linux & open-source software
+- New frameworks, languages & ideas
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Not a checklist. Just a growing playground.</sub>
+</p>
+
+<br/>
+
+<!-- TOOLBOX -->
+
+## `my_toolbox`
+
+I don't believe in being tied to a particular stack. These are some of the tools and technologies I've explored and worked with.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,django,tailwind,html,css&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,docker,vercel,git,github,linux,bash,vscode,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>And always making room for the next interesting thing.</sub>
+</p>
+
+<br/>
+
+<!-- CURRENTLY -->
+
+## `currently.exe`
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**01 / LEARNING**
+
+Going deeper into AI, system architecture, and how complex software fits together.
+
+</td>
+<td width="33%" align="center">
+
+**02 / BUILDING**
+
+Experimenting with ideas, useful tools, integrations, and software across different domains.
+
+</td>
+<td width="33%" align="center">
+
+**03 / EXPLORING**
+
+New technologies, unconventional approaches, open source, and things I haven't tried yet.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GITHUB STATS -->
+
+## `github.activity`
+
+<div align="center">
+
+<a href="https://github.com/Jatinn07">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jatinn07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=eeeeee&text_color=999999&icon_color=bbbbbb&ring_color=999999&include_all_commits=true" />
+</a>
+<a href="https://github.com/Jatinn07">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinn07&layout=compact&hide_border=true&bg_color=0d1117&title_color=eeeeee&text_color=999999&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Jatinn07&hide_border=true&background=0D1117&ring=AAAAAA&fire=DDDDDD&currStreakLabel=BBBBBB&sideLabels=999999&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinn07&bg_color=0d1117&color=aaaaaa&line=888888&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+
+## `watch_the_snake`
+
+<div align="center">
+
+<p>Every contribution leaves a trace. Here's mine.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+
+## `find.me`
+
+<div align="center">
+
+If you're into building things, exploring ideas, or just talking tech — let's connect.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinn07)
+
+<br/>
+
+<sub>Open to interesting ideas, collaborations, and conversations.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:090909&height=100&section=footer" width="100%" />
+
+<sub>© Jatin · built with curiosity and a terminal.</sub>
 
 </div>
