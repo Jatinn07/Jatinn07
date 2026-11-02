@@ -1,125 +1,71 @@
 
-<!--
-  JATIN — GitHub Profile
-  Replace nothing unless you want to customize the external widgets.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090909,50:171717,100:242424&text=JATIN&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=curious%20mind.%20builder%20by%20nature.&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050505,45:171717,100:303030&text=JATIN&fontColor=ffffff&fontSize=76&fontAlignY=42&desc=THINK.%20EXPLORE.%20CREATE.%20REPEAT.&descAlignY=65&descSize=13&animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="https://github.com/Jatinn07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Exploring+the+edges+of+technology;Turning+random+ideas+into+working+things;Software+%C2%B7+AI+%C2%B7+Systems+%C2%B7+Everything+in+between;Always+learning.+Always+building." alt="Typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=16&duration=3000&pause=1000&color=B8B8B8&center=true&vCenter=true&width=700&height=35&lines=Curiosity+has+no+tech+stack.;Building+things+just+to+see+if+I+can.;Somewhere+between+code+and+what's+next.;Always+one+more+thing+to+figure+out." alt="Introduction" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jatinn07-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinn07)
-[![Followers](https://img.shields.io/github/followers/Jatinn07?style=for-the-badge&color=171717&label=FOLLOWERS&logo=github)](https://github.com/Jatinn07?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Jatinn07?style=for-the-badge&color=171717&label=STARS&logo=github)](https://github.com/Jatinn07?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=000000)](https://github.com/Jatinn07)
+[![Followers](https://img.shields.io/github/followers/Jatinn07?style=flat-square&color=222222&labelColor=111111&logo=github&label=FOLLOWERS)](https://github.com/Jatinn07?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Jatinn07?style=flat-square&color=222222&labelColor=111111&logo=github&label=STARS)](https://github.com/Jatinn07?tab=repositories)
 
 </div>
 
 <br/>
 
-<!-- ABOUT -->
+<h2 align="center">A MIND THAT LIKES TO MAKE THINGS</h2>
 
-## `whoami`
+<p align="center">
+I enjoy exploring technology, pulling ideas apart, understanding what's happening underneath, and putting things together in ways that are actually useful.
+</p>
 
-I like understanding how things work — and then seeing if I can build them myself.
+<p align="center">
+Not particularly attached to one language, framework, or category.<br/>
+There's too much interesting stuff out there to stay in one lane.
+</p>
 
-Some days it's an application. Some days it's an AI experiment, a tool, an automation, a backend system, or an idea that probably started with *"what if..."*.
-
-I'm interested in technology as a whole, not just one lane. I enjoy moving between layers, learning unfamiliar tools, connecting different pieces, and figuring things out along the way.
-
-**Curiosity first. Tools second. Possibilities always open.**
+<p align="center">
+<b>Build something. Break something. Learn something. Repeat.</b>
+</p>
 
 <br/>
 
-<!-- AREAS -->
-
-## `things_i_get_lost_in`
+## Beyond the usual boundaries
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Building software
+### ◉ Software & the craft
 
-- Web applications & interfaces
-- Backend engineering & APIs
-- Mobile applications
-- Databases & data architecture
-- System design & infrastructure
-- Developer tools & workflows
+Applications, interfaces, backend systems, APIs, databases, mobile experiences, architecture, infrastructure and the little details that make software feel right.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Exploring technology
+### ◉ The unexplored side
 
-- Artificial intelligence & LLMs
-- AI-powered applications
-- Automation & integrations
-- Cloud & distributed systems
-- Linux & open-source software
-- New frameworks, languages & ideas
+Artificial intelligence, LLMs, automation, developer tools, open source, Linux, emerging technologies and ideas that haven't found their category yet.
 
 </td>
 </tr>
-</table>
-
-<p align="center">
-  <sub>Not a checklist. Just a growing playground.</sub>
-</p>
-
-<br/>
-
-<!-- TOOLBOX -->
-
-## `my_toolbox`
-
-I don't believe in being tied to a particular stack. These are some of the tools and technologies I've explored and worked with.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,django,tailwind,html,css&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,docker,vercel,git,github,linux,bash,vscode,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>And always making room for the next interesting thing.</sub>
-</p>
-
-<br/>
-
-<!-- CURRENTLY -->
-
-## `currently.exe`
-
-<table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**01 / LEARNING**
+### ◉ Under the hood
 
-Going deeper into AI, system architecture, and how complex software fits together.
-
-</td>
-<td width="33%" align="center">
-
-**02 / BUILDING**
-
-Experimenting with ideas, useful tools, integrations, and software across different domains.
+How systems communicate, how data moves, how things scale, how tools work internally and why something breaks when it really shouldn't.
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**03 / EXPLORING**
+### ◉ Just experimenting
 
-New technologies, unconventional approaches, open source, and things I haven't tried yet.
+Unusual ideas, new technologies, random side quests, learning unfamiliar things and building stuff simply because it sounds interesting.
 
 </td>
 </tr>
@@ -127,9 +73,37 @@ New technologies, unconventional approaches, open source, and things I haven't t
 
 <br/>
 
-<!-- GITHUB STATS -->
+## The tools I speak
 
-## `github.activity`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,django,reactnative,expo,tailwind&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,vercel,git,github,linux,bash,vscode,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>A toolbox, not a boundary. Always room for something new.</sub>
+</p>
+
+<br/>
+
+## Lately, I've been curious about
+
+<div align="center">
+
+| 01 — Artificial Intelligence | 02 — System Architecture |
+|:---:|:---:|
+| Beyond prompts. Exploring AI-powered products, integrations, agents and practical applications. | Understanding how software fits together — from individual components to larger systems. |
+
+| 03 — Developer Experience | 04 — What's Next |
+|:---:|:---:|
+| Better tools, smarter workflows, automation and making the development process itself better. | New languages, frameworks, open-source projects and technologies worth getting lost in. |
+
+</div>
+
+<br/>
+
+## A little corner of GitHub
 
 <div align="center">
 
@@ -152,44 +126,43 @@ New technologies, unconventional approaches, open source, and things I haven't t
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE -->
+## The contribution trail
 
-## `watch_the_snake`
+<p align="center">
+A little visual history of the things I've been building.
+</p>
 
 <div align="center">
-
-<p>Every contribution leaves a trace. Here's mine.</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake.svg" width="100%" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Jatinn07/Jatinn07/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- CONNECT -->
+## Good conversations start somewhere.
 
-## `find.me`
+<p align="center">
+Interested in technology, building interesting things, exchanging ideas,<br/>
+or going down a completely unexpected rabbit hole?
+</p>
 
 <div align="center">
 
-If you're into building things, exploring ideas, or just talking tech — let's connect.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinn07)
-
-<br/>
-
-<sub>Open to interesting ideas, collaborations, and conversations.</sub>
+<a href="https://github.com/Jatinn07">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:090909&height=100&section=footer" width="100%" />
+<sub>Stay curious. Make things that matter.</sub>
 
-<sub>© Jatin · built with curiosity and a terminal.</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:050505&height=110&section=footer" width="100%" />
 
 </div>
